@@ -19,6 +19,7 @@ Use indexes to support queries related to questions, tags etc..
 
 Q2. Use aggregation framework to
 
+
 - Get array of all the tags used in the questions
 - Get total questions count
 - Total answers count overall and question specific as well
