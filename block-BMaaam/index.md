@@ -9,7 +9,6 @@ Write aggregation queries to perform following tasks.
 2. Find all users whose name includes `blake` case insensitive.
 
 3. Find all males.
-
 4. Find all active males.
 
 5. Find all active females whose age is >= 25.
@@ -61,7 +60,9 @@ green -> 123
 
 25. Scan all the document to retrieve all eyeColors(use db.COLLECTION_NAME.distinct);
 
-26. Find all apple loving blue eyed female working in 'USA'. Sort them by their registration date in descending order.
+26. Find all apple loving blue eyed female working in 'USA'. Sort them by their registration date in descending order.  
+
+
 
 27. Find all 18+ inactive men and return only the fields specified below in the below provided format
 
